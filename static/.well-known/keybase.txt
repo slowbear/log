@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/slowy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://slowy.dev
+  * I am slowy (https://keybase.io/slowy) on keybase.
+  * I have a public key ASBvsT6Us_D7Uxv1dbxbYkYxSitX6rwZeqIu_rZhzM-3MQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200e4a6797607b00cf8acf57e213294a1663ff64feb3cb8a13c7c7fd4e48c021290a",
+      "host": "keybase.io",
+      "kid": "01206fb13e94b3f0fb531bf575bc5b6246314a2b57eabc197aa22efeb661cccfb7310a",
+      "uid": "4ed51d0c73feee24461412bbb23a0b19",
+      "username": "slowy"
+    },
+    "merkle_root": {
+      "ctime": 1605966951,
+      "hash": "b2f11ee63aae3cafdf18fc615170a7ea06d54cc632805aeb1f4955eb8607b9cfee33ead5ad336e135ff1115a085ff865428514fa31702c145d45cb46c1c2cb75",
+      "hash_meta": "b7a4e81b99279140b899be8326e89e6adebd0316efc7709f1dd86aa64943bfa5",
+      "seqno": 18187281
+    },
+    "service": {
+      "entropy": "La3wIrOIeOxG4vq3dqi6NKKX",
+      "hostname": "slowy.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1605966969,
+  "expire_in": 504576000,
+  "prev": "5dbe7b072e1d52625ba8710c1ab7ab15536b29c6d8c47e3cebb9ab91ec009612",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb7E+lLPw+1Mb9XW8W2JGMUorV+q8GXqiLv62YczPtzEKp3BheWxvYWTESpcCI8QgXb57By4dUmJbqHEMGrerFVNrKcbYxH4867mrkewAlhLEIJcfjJGu1yETvhA93pijPRreLiD0U/PMuA6tUjkxkwtMAgHCo3NpZ8RAyh5HWrjJYHY2Wt2RjicdyK2C/nK3B7kxJFh8HCo/c2szbaGVS2P6+5uzbVTSOcb1oVAw/6FzidUFLjNgV1UHDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILy5vxKl5CoT8Io8nDKJoN1xakQ6pIo9W/4FrpNMxf+5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/slowy
+
+==================================================================
